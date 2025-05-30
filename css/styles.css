@@ -30,8 +30,6 @@ body {
   font-style: normal;
 }
 .mail {
-  width: 151px;
-  height: 24px;
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -43,9 +41,6 @@ body {
 }
 .mail:hover,
 .mail:focus {
-  width: 153px;
-  height: 24px;
-
   color: #404bbf;
 }
 .main {
